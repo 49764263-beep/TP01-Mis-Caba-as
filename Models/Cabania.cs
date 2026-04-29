@@ -1,6 +1,6 @@
 namespace misCabañas.Models;
 
-public class Cabanias 
+public class Cabania 
 {
     private int ID;
     private string Nombre;
@@ -9,7 +9,7 @@ public class Cabanias
     private List<string> Fotos;
     private List<string> Ambientes;
 
-    public Cabanias(int id, string nombre, string descripcion, int capacidad, List<string> fotos, List<string> ambientes) 
+    public Cabania(int id, string nombre, string descripcion, int capacidad, List<string> fotos, List<string> ambientes) 
     {
         ID = id;
         Nombre = nombre;
@@ -19,7 +19,7 @@ public class Cabanias
         Ambientes = ambientes;
     }
 
-    public int GetDNI() 
+    public int GetID() 
     {
         return ID; 
     }

@@ -15,7 +15,17 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        Complejo residencia = new Complejo();
+        ViewBag.Complejo = residencia;
         return View();
+    }
+    public IActionResult SelectCabania(int id)
+    {
+        Complejo residencia = new Complejo();
+        Cabania EnLista = residencia.GetCabania(id);
+        ViewBag.Cabania = EnLista;
+        ViewBag.IDCabania = id;
+        return View("infoCabania"); 
     }
 
     public IActionResult Privacy()

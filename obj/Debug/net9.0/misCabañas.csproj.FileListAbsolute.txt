@@ -1,0 +1,9 @@
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\rpswa.dswa.cache.json
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\misCabañas.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\misCabañas.AssemblyInfoInputs.cache
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\misCabañas.AssemblyInfo.cs
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\misCabañas.csproj.CoreCompileInputs.cache
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\misCabañas.MvcApplicationPartsAssemblyInfo.cache
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\misCabañas.RazorAssemblyInfo.cache
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\misCabañas.RazorAssemblyInfo.cs
+Z:\2026\Programación\misCabañas\obj\Debug\net9.0\misCabañas.sourcelink.json
