@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("misCabañas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a62c0b765365c9dd7d4d0cb88bc5da71167f0027")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d295c4e11ba95eeaa974fb10e38ef2564cf631f")]
 [assembly: System.Reflection.AssemblyProductAttribute("misCabañas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("misCabañas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
